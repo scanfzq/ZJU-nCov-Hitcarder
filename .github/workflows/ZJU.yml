@@ -1,5 +1,5 @@
 - name: Working
-   uses: Long0x0/zju-ncov-hitcarder@0.0.x
+   uses: /zju-ncov-hitcarder@0.0.x
       with:
          # zju account username(student  id).
          username: ${{ secrets.ZJU_USERNAME }}
